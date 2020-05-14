@@ -1,11 +1,11 @@
 {
-    "name": "webapp",
-    "short_name": "webapp",
+    "name": "presentation",
+    "short_name": "presentation",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Présentation de Flutter.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
