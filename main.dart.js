@@ -40270,7 +40270,7 @@ V.Ap.prototype={
 D:function(a){var t,s,r,q=null,p=4286611584,o=E.cP(L.aN("Comment ?",q,q)),n=F.a6(a,!1).a,m=F.a6(a,!1).a,l=A.fQ(p,"Tout est un widget",C.l)
 l=X.d3($.u1,l,100,1,100)
 t=u.p
-s=T.bF(H.a([A.aI(p,"Inspire\u0301 de React:",C.l),A.aI(p,"Un widget de\u0301crit a\u0300 quoi la vue devrait ressembler e\u0301tant donne\u0301 sa configuration et son e\u0301tat.",C.l),new T.bh(q,30,q,q),A.aI(p,"Stateless Widgets: des widgets qui ne changeront pas pendant l'\xe9xecution du code (Text, Image, Icon ...)",C.l),new T.bh(q,30,q,q),A.aI(p," - Stateless Widgets: des widgets qui ne changeront pas pendant l'\xe9xecution du code (Text, Image, Icon ...)",C.l),new T.bh(q,30,q,q),A.aI(p," - Stateful Widgets: des widgets qui vont changer pendant l'\xe9xecution du code (TextField, Checkbox, AnimatedWidget ...)",C.l)],t),C.at,C.x)
+s=T.bF(H.a([A.aI(p,"Inspire\u0301 de React:",C.l),A.aI(p,"Un widget de\u0301crit a\u0300 quoi la vue devrait ressembler e\u0301tant donne\u0301 sa configuration et son e\u0301tat.",C.l),new T.bh(q,30,q,q),A.aI(p,"Les types des Widgets:",C.l),new T.bh(q,30,q,q),A.aI(p," - Stateless Widgets: des widgets qui ne changeront pas pendant l'\xe9xecution du code (Text, Image, Icon ...)",C.l),new T.bh(q,30,q,q),A.aI(p," - Stateful Widgets: des widgets qui vont changer pendant l'\xe9xecution du code (TextField, Checkbox, AnimatedWidget ...)",C.l)],t),C.at,C.x)
 r=$.u1
 return M.b4(o,q,M.b4(q,C.j,T.bF(H.a([T.bS(M.c0(q,T.bu(C.D,H.a([l,X.e2(r,s,100,2,250),X.cQ(r,50,U.bT(new L.br("images/logo_small.png")),50,1)],t),C.C),new P.C(4294967295),q,q,m.b,q,q,n.a)),T.bW(H.a([N.b3(L.b_(C.a1),new V.P6(this,a)),N.b3(L.b_(C.a2),new V.P7(this,a))],t),C.o,C.X,C.J)],t),C.o,C.x),q),new O.cc(q))}}
 V.P6.prototype={
