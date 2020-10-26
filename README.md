@@ -1,10 +1,12 @@
 # Presentation-de-Flutter-Web-Build
 
-This is a Flutter presentation written in French, made using Flutter!
+This is a Flutter presentation, made using Flutter!
 
 To view the final Presentation, check out the following link:
 
- - [Final Presentation](https://yassine-latreche.github.io/Presentation-de-Flutter-Web/)
+ - [Final Presentation - English](https://yassine-latreche.github.io/Flutter-Presentation-Web-En/)
+
+ - [Final Presentation - French](https://yassine-latreche.github.io/Presentation-de-Flutter-Web/)
 
  ``` This Presentation is meant to be built for the web. ```
 
@@ -12,4 +14,4 @@ To view the final Presentation, check out the following link:
 
  To view the source code, check out the following link:
 
- - [Source Code](https://github.com/Yassine-Latreche/Presentation-de-Flutter-Source-Code)
+ - [Source Code - French](https://github.com/Yassine-Latreche/Presentation-de-Flutter-Source-Code)
